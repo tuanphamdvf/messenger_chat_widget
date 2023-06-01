@@ -4,8 +4,8 @@
     "summary": "An application that allows you to connect with Messenger and easily configure it so that your customers can chat directly on your website.",
     'description': """An application that allows you to connect with Messenger and easily configure it so that your customers can chat directly on your website.!!
     """,
-    "price": "0",
-    "currency": "EUR",
+    "price": "4,99",
+    "currency": "USD",
     'license': 'GPL-3',
     'author': "TTN SOFTWARE",
     'website': "TTNSOFTWARE.STORE",
